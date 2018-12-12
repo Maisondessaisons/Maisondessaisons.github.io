@@ -1,0 +1,122 @@
+body , html {
+    margin:0px;
+    font-family: 'Playfair Display', serif; 
+    height: 100%;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3e514a;
+}
+
+a:hover{
+    color: grey;
+    text-decoration:none;
+
+}
+
+li {
+    float: right;
+    padding: 0px 10px 0px 0px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li p{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px 0px 0px;
+    text-decoration: none;
+    font-family: 'Lora', serif;
+}
+
+button{
+    float: center;
+}
+
+a::hover{
+    color: grey;
+}
+
+
+.navdroite{
+    float: left;
+    
+}
+
+.nav2{
+    background-color: white;
+}
+
+.nav2 p{
+    color: black;
+    text-align:center;
+}
+
+
+.maincontainer{
+background-image:url('4.jpg');
+height:90%;
+background-attachment:fixed;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#barseparation{
+    margin: 0px 0px 0px 0px;
+    background-color:#e8e830;
+    font-size:20px;
+    padding:0px 0px 0px 0px; 
+    text-align:center;
+    
+}
+
+
+.container{
+    margin-top: 0px;
+    text-align: center;
+    color: black;
+}
+
+.footter{
+    width: 100%;
+    margin: 0px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.boutton{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
